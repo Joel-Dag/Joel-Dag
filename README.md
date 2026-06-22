@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://instagram.com/@joexdag">
+  <a href="https://instagram.com/@ittz.yoel">
     <img src="https://img.shields.io/badge/Instagram-6366F1?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
